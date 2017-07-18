@@ -17,6 +17,10 @@ h1 {
 	font-size: 30px;
 	font: #000;
 	text-align: left;
+	position: absolute;
+  	top: 50%;
+  	transform: translateY(-50%);
+	
 }
 
 h2 {
@@ -60,6 +64,7 @@ h3 {
 		background-color: #fff;
 		width: 650px;
 		vertical-align: center;
+		position: relative;
 	
 }
 
